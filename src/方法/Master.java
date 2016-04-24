@@ -8,7 +8,7 @@ public class Master {
 		Dog myDog = new Dog();
 		Cat myCat =new Cat();
 		myCat.setName("小白");
-		myDog.setName("小红");
+		myDog.setName("小黑");
 		System.out.println("请输入狗的年龄！");
 		myDog.setAge(input.nextInt());
 		System.out.println("请输入猫的年龄！");
