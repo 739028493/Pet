@@ -15,14 +15,14 @@ public class Master {
 		myCat.setAge(input.nextInt());
 		
 		String food="π«Õ∑";
-		String food1="√®¡∏";
+		String food1="”„";
 		
 		myDog.age();
 		myCat.age();
 		
 		String result=myDog.lookdoor();
 		System.out.println(result);
-		String result1=myCat.maimeng();
+		String result1=myCat.actcute();
 		System.out.println(result1);
 		
 		String sound =myDog.bark();
